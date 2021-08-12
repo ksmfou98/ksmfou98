@@ -25,8 +25,15 @@ Here are some ideas to get you started:
 <br/>  
 
 <p align="center">
-  <b>ksmfou98@naver.com
+  Email : <b>ksmfou98@naver.com  <br />
+  Portfolio : https://speckled-lobster-5d5.notion.site/3f98e68d7a324ffa9796b3b5a3bfa83d
 </p>
+  
+
+  
+  
+  
+
 
 <br/>  
 
