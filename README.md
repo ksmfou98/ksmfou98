@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <br>
-  <samp>
    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">안녕하세요   <b>이도현</a></b>입니다<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">  
 
-</samp>
 
 
   
