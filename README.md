@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   Email : <b>ksmfou98@naver.com  <br />
-  Blog : https://ksmfou98.github.io/today-i-learn
+  Blog : https://ksmfou98.github.io
 </p>
   
 
