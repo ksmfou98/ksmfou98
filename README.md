@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <br />
 
 
-## <img src="https://abs-0.twimg.com/emoji/v2/svg/1f527.svg" width="30px" /> 기술스택
-
-
-**FrontEnd** | HTML, CSS(Sass), Javascript, Typescript, React, Next.js, Redux, Recoil, webRTC, socketio  
-**BackEnd**&nbsp; | Node.js, Express, MongoDB, mongoose. webRTC, socketio
 
   
  
