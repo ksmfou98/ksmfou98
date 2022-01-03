@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>이메일</b> | ksmfou98@naver.com
 <br />
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>블로그</b> | <a href="https://doiler.tistory.com/">https://doiler.tistory.com/</a>
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>블로그</b> | <a href="https://doiler.tistory.com/"  target="_blank" >https://doiler.tistory.com/</a>
 <br />
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f468-200d-1f4bb.svg" width="16" /> <b>TIL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> | <a href="https://glossy-duke-cfb.notion.site/Today-I-Learn-c437adcd915d4ff1ab483c4eff1802a1">Today I Learn</a>
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f468-200d-1f4bb.svg" width="16" /> <b>TIL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> | <a href="https://glossy-duke-cfb.notion.site/Today-I-Learn-c437adcd915d4ff1ab483c4eff1802a1" target="_blank" >Today I Learn</a>
 <br />
 
 
