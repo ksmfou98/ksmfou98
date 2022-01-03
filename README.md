@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 **FrontEnd** | HTML, CSS(Sass), Javascript, Typescript, React, Next.js, Redux, Recoil, webRTC, socketio  
-**BackEnd** | Node.js, Express, MongoDB, mongoose. webRTC, socketio
+**BackEnd**&nbsp; | Node.js, Express, MongoDB, mongoose. webRTC, socketio
 
   
  
