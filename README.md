@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ### 프로필
 
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f64b-200d-2642-fe0f.svg" width="16" /> <b>이력서</b> | <a href="https://speckled-lobster-5d5.notion.site/Resume-3f98e68d7a324ffa9796b3b5a3bfa83d"  target="_blank" >https://speckled-lobster-5d5.notion.site/Resume-3f98e68d7a324ffa9796b3b5a3bfa83d</a>
+<br />
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>이메일</b> | ksmfou98@naver.com
 <br />
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>블로그</b> | <a href="https://doiler.tistory.com"  target="_blank" >https://doiler.tistory.com</a>
