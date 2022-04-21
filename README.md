@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### 도현로그
 
+- [YAPP 동아리 웹 개편 후기](https://doiler.tistory.com/68)
 - [IT 연합 동아리 YAPP 19기 활동 후기](https://doiler.tistory.com/36)
 - [원티드 프리 온보딩 지원 후기](https://doiler.tistory.com/27)
 - [2021년 회고록](https://doiler.tistory.com/9)
