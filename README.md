@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 <br />
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>블로그</b> | <a href="https://doiler.tistory.com"  target="_blank" >https://doiler.tistory.com</a>
 <br />
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f468-200d-1f4bb.svg" width="16" /> <b>TIL</b> &nbsp; &nbsp; &nbsp; | <a href="https://ksmfou98.github.io"  target="_blank" >https://ksmfou98.github.io</a>
-<br />
-
 
 ### 도현로그
 
