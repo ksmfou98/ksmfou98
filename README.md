@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> 안녕하세요 이도현입니다.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" /> 안녕하세요 이도현입니다.
 
 ### 프로필
 
